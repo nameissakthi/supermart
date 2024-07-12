@@ -1,2 +1,2 @@
-# supermart
+# SuperMart
 E-Commerce Website
