@@ -1,6 +1,8 @@
 # SuperMart Landing Page
 A simple and visually appealing landing page designed to showcase the SuperMart theme.
 
+![SuperMart Screenshot](/images/project1.png)
+
 ## Features
  - Clean and responsive design.
  - Styled using modern CSS techniques.
